@@ -1,0 +1,11 @@
+# Ignore OGGM data and temp files
+OGGM/
+download_cache/
+tmp/
+*.nc
+*.tif
+.oggm/
+
+# Ignore python cache
+__pycache__/
+.ipynb_checkpoints/
